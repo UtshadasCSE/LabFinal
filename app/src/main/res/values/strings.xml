@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Labfinal</string>
+    <string-array name="movies">
+        <item>Crash Landing on you</item>
+        <item>Snowdrop</item>
+        <item>Goblin</item>
+        <item>W:Two world apart</item>
+        <item>Its OK Not to be OK</item>
+        <item>Business Proposal</item>
+    </string-array>
+</resources>
